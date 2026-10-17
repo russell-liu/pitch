@@ -1,0 +1,28 @@
+{
+  "short_name": "Pitch Detection",
+  "name": "Rust + WebAssembly Pitch Detection App",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "320x320"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "favicon.png",
+      "sizes": "320x320",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

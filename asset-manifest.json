@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pitch/static/css/main.956f9916.chunk.css",
+    "main.js": "/pitch/static/js/main.090867d7.chunk.js",
+    "main.js.map": "/pitch/static/js/main.090867d7.chunk.js.map",
+    "runtime-main.js": "/pitch/static/js/runtime-main.99d7d1b0.js",
+    "runtime-main.js.map": "/pitch/static/js/runtime-main.99d7d1b0.js.map",
+    "static/css/2.4ee7bd90.chunk.css": "/pitch/static/css/2.4ee7bd90.chunk.css",
+    "static/js/2.0c9159ff.chunk.js": "/pitch/static/js/2.0c9159ff.chunk.js",
+    "static/js/2.0c9159ff.chunk.js.map": "/pitch/static/js/2.0c9159ff.chunk.js.map",
+    "static/js/3.9d08cec6.chunk.js": "/pitch/static/js/3.9d08cec6.chunk.js",
+    "static/js/3.9d08cec6.chunk.js.map": "/pitch/static/js/3.9d08cec6.chunk.js.map",
+    "index.html": "/pitch/index.html",
+    "service-worker.js": "/pitch/service-worker.js",
+    "service-worker.js.map": "/pitch/service-worker.js.map",
+    "static/css/2.4ee7bd90.chunk.css.map": "/pitch/static/css/2.4ee7bd90.chunk.css.map",
+    "static/css/main.956f9916.chunk.css.map": "/pitch/static/css/main.956f9916.chunk.css.map",
+    "static/js/2.0c9159ff.chunk.js.LICENSE.txt": "/pitch/static/js/2.0c9159ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d7d1b0.js",
+    "static/css/2.4ee7bd90.chunk.css",
+    "static/js/2.0c9159ff.chunk.js",
+    "static/css/main.956f9916.chunk.css",
+    "static/js/main.090867d7.chunk.js"
+  ]
+}
